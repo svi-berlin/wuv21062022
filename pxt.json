@@ -1,0 +1,21 @@
+{
+    "name": "wuv21062022",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "servo": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
