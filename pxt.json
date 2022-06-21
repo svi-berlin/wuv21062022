@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "servo": "*"
+        "servo": "*",
+        "Grove": "github:calliope-edu/pxt-grove#v0.2.7",
+        "pxt-serialmp3": "github:mkleinsb/pxt-serialmp3#v0.0.8"
     },
     "files": [
         "main.blocks",
